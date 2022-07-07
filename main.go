@@ -75,5 +75,5 @@ func main() {
 		totalFood += myAnimals[i].calculateFood()
 	}
 	fmt.Println(totalFood, "kg of food needed for all the animals on the farm.")
-	fmt.Println("This line only appears in the pull request") //to create pull request
+	fmt.Println(":>") //to create pull request
 }
